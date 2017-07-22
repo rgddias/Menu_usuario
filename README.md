@@ -1,5 +1,6 @@
 void menu_usuario()
 {
+
 	line_start();
 	
 	printf("\n--Bem vindo ao menu do usuario Spotify-- \n");	
